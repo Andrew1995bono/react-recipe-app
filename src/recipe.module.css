@@ -1,0 +1,28 @@
+/* Some styles for receipe app */
+
+.recipe {
+    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    min-width: 40%;
+    background: rgb(36, 209, 200);
+}
+
+
+.image {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+    box-shadow: 0px 5px 20px rgb(7, 212, 144);
+}
+
+.calories {
+    font-weight: 600;
+}
+
+.li {
+    padding-right: 15px;
+}
